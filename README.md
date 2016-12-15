@@ -1,4 +1,4 @@
 MiniBlog
 ========
 
-我的留言板
+my first b/s demo written in asp.net, ugly. ^_^||
